@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.app{
+  background-color: RGB(20 238 242);
+  width: 1536.3px;
+  height: 638px;
+  padding-top: 5%;
+}
